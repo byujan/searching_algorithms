@@ -16,3 +16,5 @@ Exercises:
 2. Binary Search
 3. Breadth First Search
 4. Depth First Search
+
+To test your code run the command "python3 test.py"
