@@ -1,5 +1,5 @@
 #Continuing Education - Search Algorithms
-#Exercises written by Cyber Pete
+#Exercises written by Peter Jang
 
 #Exercise 1
 def LinearSearch(list, element):
@@ -12,6 +12,8 @@ def LinearSearch(list, element):
     If the element does not exist in the list return the searched list and None (list, None)
     list: the list of elements that have been searched
     int: the index at which the element was found
+
+    CHALLENGE: Complete this exercise using recursion
     """
     #TODO
     #Write your code here
@@ -28,6 +30,8 @@ def BinarySearch(list, element):
     If the element does not exist in the list return the searched list and None (list, None)
     list: the list of elements that have been searched
     int: the index at which the element was found
+
+    CHALLENGE: Complete this exercise using recursion
     """
     #TODO
     #Write your code here
@@ -45,6 +49,8 @@ def BreadthFirstSearch(graph, start, goal):
     If the goal node does not exist in the graph return the searched list and None (list(list), None)
     list(list): the list of lists that contain the paths the algorithm has searched through
     list: the actual path the algorithm took to find the goal node
+
+    CHALLENGE: Complete this exercise using recursion
     """
     #TODO
     #Write your code here
@@ -61,6 +67,9 @@ def DepthFirstSearch(graph, start, goal):
     returns: list
     If the element does not exist in the graph return None
     list: the actual path the algorithm took to find the goal node
+
+    CHALLENGE: If you used recursion to complete this problem, use a loop of your choice to as a challenge;
+               If you used a loop to complete this problem, use recursion as a challenge
     """
     #TODO
     #Write your code here

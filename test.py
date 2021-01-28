@@ -1,5 +1,5 @@
 #Continuing Education - Search Algorithms
-#Tests written by Cyber Pete
+#Tests written by Peter Jang
 
 import unittest
 from search import LinearSearch, BinarySearch, BreadthFirstSearch, DepthFirstSearch
