@@ -18,3 +18,5 @@ Exercises:
 4. Depth First Search
 
 To test your code run the command "python3 test.py"
+
+requirements.txt - exercises do not require external packages
