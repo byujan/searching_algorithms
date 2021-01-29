@@ -11,7 +11,7 @@ To create a python virtual environment type the following commands <br/>
 1. python3 -m venv [name (i.e) ce] <br/>
 2. source ce/bin/activate
 
-Exercises:
+Exercises will be completed in search.py:
 1. Linear Search
 2. Binary Search
 3. Breadth First Search

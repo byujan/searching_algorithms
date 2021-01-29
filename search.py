@@ -8,7 +8,7 @@ def LinearSearch(list, element):
     list: list containing elements to search
     element: integer being searched for
     
-    returns: (list, int)
+    returns: tuple - (list, int)
     If the element does not exist in the list return the searched list and None (list, None)
     list: the list of elements that have been searched
     int: the index at which the element was found
